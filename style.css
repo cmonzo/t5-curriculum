@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(140, 180, 180);
+}
+h1.titulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 300%;
+    
+}
+span.gris{
+    background-color: gray;
+}
+h1.subrayado{
+    background-color: grey;
+    text-decoration: underline;
+}
+section.claro{
+    background-color: grey;
+}
+section.oscuro{
+    background-color: gray;
+    text-decoration: underline;
+}
+span.azul{
+    color: rgb(29, 25, 223);
+}
+section.medio{
+    background-color: rgb(216, 192, 192);
+}
+section.blanco{
+    background-color: white;
+    text-align: right;
+    font-weight: bold;
+    font-style: italic;
+}
+span.pie{
+    color: rgba(25, 95, 201, 0.685);
+    text-decoration: underline;
+    font-style: italic;
+    
+    
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
